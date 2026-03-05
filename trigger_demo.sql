@@ -64,11 +64,6 @@ WHERE ID = 1;
 
 SELECT * FROM NIERUCHOMOSC;
 
---AFTER DRUGI
-
-
-
-
 -- Usunięcie umowy (spowoduje przeniesienie do ARCHIWUM_UMOW i wyświetli komunikat)
 DELETE
 FROM Umowa
