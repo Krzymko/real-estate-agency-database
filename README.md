@@ -24,13 +24,9 @@ Recommended order:
 4. Run `sql/03_queries.sql` to see example reports
 5. (Optional) Run `examples/trigger_demo.sql`
 
-> Note: some triggers use `DBMS_OUTPUT`. Enable server output in your SQL client if you want to see messages.
-
 ## Domain model (high level)
 - **Agent** manages many **Property** records
 - **Client** can book multiple **Viewings**
 - **Transaction** links a **Client** with a **Property**
 - **Contract (Umowa)** formalizes the transaction
 
-## License
-No explicit license yet — treat as a personal portfolio project unless you add one.
