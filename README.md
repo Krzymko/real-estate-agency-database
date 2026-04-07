@@ -17,7 +17,7 @@ The model covers the core workflow: properties managed by agents, clients bookin
 - `sql/04_triggers.sql` – triggers (PL/SQL)
 - `examples/trigger_demo.sql` – optional manual tests for triggers
 
-## How to run (optional)
+## How to run
 You need access to an Oracle database (local or remote) and any SQL client (e.g. Oracle SQL Developer).
 
 Recommended order:
